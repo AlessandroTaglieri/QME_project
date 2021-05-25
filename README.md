@@ -2,4 +2,4 @@
 
 ### Project work - QME Exam
 
-#### Group B: Clemente Recine,  Camilla Lombardi, Lorezno Garcia Condoluci, Alessandro Taglieri
+#### Group B: Clemente Recine,  Camilla Lombardi, Lorenzo Garcia Condoluci, Alessandro Taglieri
